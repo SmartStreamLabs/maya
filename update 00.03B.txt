@@ -1,0 +1,35 @@
+00.03B Update
+
+New Ai added: 
+1 - Maya can now open doors & close them.
+2 - Added shader support for maya her eyes. ( glow )
+3 - Added a new pickaxe for maya ( can be obtained by killing her )
+4 - Added a new Ai ( maya can now track boats )
+5 - Added a new item ( totem heart ) Can be obtained by a easter egg!
+6 - Added new sounds to the mod.
+7 - Added new Ai: maya can now move in doors.
+8 - Added modded biome support. ( biome O' plenty, etc )
+9 - Added a new achievement.
+10 - Added the demon of maya ( easter egg )
+
+
+Secret:
+
+1 - add a new easter egg to maya. lets see if anyone finds out!
+2 - Added a new secret achievement.
+
+
+Fixes:
+1 - Fixed a broken skin texture
+2 - Fixed Skull not dropping when maya is killed.
+3 - Fixed tracking race of maya.
+4 - Fixed maya despawn if player enters end / nether.
+5 - Fixed game crash on ( forge 1.20.1 ) with the create mod.
+6 - Fixed maya die when falling from a high place.
+7 - Fixed maya not dropping XP when she is killed.
+8 - Fixed invertory not opening of maya when player is in a boat.
+9 - Fixed mod bio ( Blah blah )
+
+Changes:
+1- Maya now sees you from 600 block away ( was 60 )
+2- Maya no longer have step sounds ( undetected )
